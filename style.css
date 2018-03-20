@@ -1,13 +1,13 @@
 
 #content{
-	margin:5vh auto;
-	max-width: 80%;
+  margin:5vh auto;
+  max-width: 80%;
   display: flex;
   flex-direction: column;
 }
 
 img{
-	width:100%;
+	width:50%;
 	margin:0;
 }
 
