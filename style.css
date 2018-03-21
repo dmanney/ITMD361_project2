@@ -43,9 +43,6 @@ img{
   font-size: 200%;
 }
 
-.skills h3{
-  font-size: 150%;
-}
 .experience ul{
   padding-bottom: 0;
   font-family: monospace;
@@ -81,6 +78,13 @@ img{
 /* Nicer fonts */
 h1 {
 	text-align: center;
+}
+h2 {
+	font-family: cursive;
+	font-size: 2.5em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
 }
 h3 {
 	font-family: cursive;
