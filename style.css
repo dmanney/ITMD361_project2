@@ -42,6 +42,10 @@ img{
   font-family: monospace;
   font-size: 200%;
 }
+
+.skills h3{
+  font-size: 150%;
+}
 .experience ul{
   padding-bottom: 0;
   font-family: monospace;
