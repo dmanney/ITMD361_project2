@@ -103,6 +103,9 @@ h3 {
 	font-variant: normal;
 	font-weight: 500;
 }
+h4 {
+	text-align: center;
+}
 p {
 	font-family: cursive;
 	font-size: 1em;
