@@ -33,6 +33,11 @@ img{
   font-family: monospace;
   font-size: 200%;
 }
+
+.education p{
+  font-size: 200%;	
+}
+
 .skills ul{
   padding-bottom: 0;
   font-family: monospace;
@@ -52,6 +57,9 @@ img{
   padding-bottom: 0;
   font-family: monospace;
   font-size: 200%;
+}
+.experience p{
+  font-size: 200%;	
 }
 .item{
 	margin:3em 0;
