@@ -24,7 +24,32 @@ img{
 	width:50%;
 	margin:0;
 }
+.education ul{
+  padding-bottom: 0;
+  font-family: monospace;  
+}
 
+.education ul li{
+  padding-bottom: 0;
+  font-family: monospace;
+}
+.skills ul{
+  padding-bottom: 0;
+  font-family: monospace;
+}
+
+.skills ul li{
+  padding-bottom: 0;
+  font-family: monospace;
+}
+.experience ul{
+  padding-bottom: 0;
+  font-family: monospace;
+}
+.experience ul li{
+  padding-bottom: 0;
+  font-family: monospace;
+}
 .item{
 	margin:3em 0;
 	width:100%;
