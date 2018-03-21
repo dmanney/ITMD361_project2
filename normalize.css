@@ -1,9 +1,6 @@
 /* 
 html5doctor.com Reset Stylesheet
 v1.6.1
-Last Updated: 2010-09-17
-Author: Richard Clark - http://richclarkdesign.com 
-Twitter: @rich_clark
 */
 
 html, body, div, span, object, iframe,
@@ -28,7 +25,7 @@ time, mark, audio, video {
 }
 
 body {
-    line-height:1;
+    margin: 0;
 }
 
 article,aside,details,figcaption,figure,
