@@ -1,5 +1,5 @@
 body{
-  background-color:#7FDBFF;
+  background-color:#6200c4;
   font-family:Impact;
   border: 0.1em solid black;
   padding-top: 1em;
@@ -35,7 +35,7 @@ img{
 }
 
 .education p{
-  font-size: 200%;	
+  font-size: 150%;	
 }
 
 .skills ul{
@@ -59,7 +59,7 @@ img{
   font-size: 200%;
 }
 .experience p{
-  font-size: 200%;	
+  font-size: 150%;	
 }
 .item{
 	margin:3em 0;
