@@ -16,6 +16,9 @@ img{
   width:50%;
   margin:0;
 }
+.playing p{
+  font-size: 150%
+}
 .education ul{
   padding-bottom: 0;
   font-family: monospace;  
