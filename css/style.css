@@ -2,10 +2,8 @@ body{
   background-color:#6200c4;
   font-family:Impact;
   border: 0.1em solid black;
-  padding-top: 1em;
-  padding-right: 3em;
-  padding-bottom: 5em;
-  padding-left: 3em;
+  padding: 0 100px 100px 100px;
+  background-size: 1800px 900px;
 }
 header{
   text-align: center;
