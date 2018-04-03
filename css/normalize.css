@@ -16,8 +16,7 @@ footer, header, nav, section, audio, video {
     background:transparent;
 }
 img {
-  padding: 10px;
-  float: center;
+  padding: 0px 10px;
 }
 body {
     line-height:1;
