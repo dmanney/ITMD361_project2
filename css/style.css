@@ -13,6 +13,7 @@ header{
 img{
   width:50%;
   margin:0;
+  padding: 1em;
 }
 .playing p{
   font-size: 150%
@@ -61,7 +62,6 @@ img{
 	display: flex;
 	flex-flow: row wrap;
 
-
 }
 
 h1 {
@@ -86,6 +86,7 @@ h4 {
 }
 p {
   font-family: cursive;
+  padding: 1em;
 }
 strong {
   float: right;
