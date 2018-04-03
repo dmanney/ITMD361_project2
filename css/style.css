@@ -111,7 +111,7 @@ ul li{
 }
 
 #header li {
-	float: right;
+	padding: 0;
 }
 
 #header li a {
