@@ -17,7 +17,10 @@ img{
   font-size: 150%
 }
 .playing a{
-  text-align: center;
+  float: center;
+}
+.playing img{
+  float: center;
 }
 .education ul{
   padding-bottom: 0;
