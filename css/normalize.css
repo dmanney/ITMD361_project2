@@ -4,7 +4,7 @@ v1.6.1
 */
 
 html, body, div,
-h1, h2, h3, h4, p, img,
+h1, h2, h3, h4, p,
 strong, ul, li,
 aside,
 footer, header, nav, section, audio, video {
@@ -15,7 +15,10 @@ footer, header, nav, section, audio, video {
     vertical-align:baseline;
     background:transparent;
 }
-
+img {
+  padding: 10px;
+  float: center;
+}
 body {
     line-height:1;
 }
