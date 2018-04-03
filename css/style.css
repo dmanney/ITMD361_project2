@@ -19,9 +19,6 @@ img{
 .playing p{
   font-size: 150%
 }
-.playing a{
-  float: center;
-}
 .education ul{
   padding-bottom: 0;
   font-family: monospace;  
