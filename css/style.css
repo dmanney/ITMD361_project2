@@ -87,6 +87,9 @@ h4 {
 p {
   font-family: cursive;
 }
+strong {
+  float: right;
+}
 
 ul li{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
