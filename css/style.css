@@ -13,7 +13,7 @@ header{
 img{
   width:50%;
   margin:0;
-  padding: 1em;
+  padding: 25px;
 }
 .playing p{
   font-size: 150%
@@ -86,7 +86,7 @@ h4 {
 }
 p {
   font-family: cursive;
-  padding: 1em;
+  padding: 25px;
 }
 strong {
   float: right;
