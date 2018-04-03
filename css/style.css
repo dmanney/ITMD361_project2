@@ -126,3 +126,7 @@ ul li{
 #header li a:hover {
     background-color: #c68eff;
 }
+.picked{
+  background-color: #520294;
+}
+
