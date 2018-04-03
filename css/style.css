@@ -16,6 +16,9 @@ img{
 .playing p{
   font-size: 150%
 }
+.playing a{
+  text-align: center;
+}
 .education ul{
   padding-bottom: 0;
   font-family: monospace;  
