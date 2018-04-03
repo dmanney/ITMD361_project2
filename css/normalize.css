@@ -12,7 +12,6 @@ footer, header, nav, section, audio, video {
     padding:0;
     border:0;
     outline:0;
-    font-size:100%;
     vertical-align:baseline;
     background:transparent;
 }
@@ -37,7 +36,6 @@ blockquote, q {
 a {
     margin:0;
     padding:0;
-    font-size:100%;
     vertical-align:baseline;
     background:transparent;
 }
