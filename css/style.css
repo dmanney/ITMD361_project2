@@ -12,7 +12,6 @@ header{
 footer{
   text-align: center;
 }
-
 img{
   width:50%;
 }
@@ -58,28 +57,28 @@ img{
   font-size: 150%;	
 }
 .item{
-	margin:3em 0;
-	width:100%;
-	display: flex;
-	flex-flow: row wrap;
+  margin:3em 0;
+  width:100%;
+  display: flex;
+  flex-flow: row wrap;
 
 }
 
 h1 {
-	text-align: center;
+  text-align: center;
 }
 h2 {
-	font-family: cursive;
-	font-size: 3em;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
+  font-family: cursive;
+  font-size: 3em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
 }
 h3 {
-	font-family: cursive;
-	font-size: 2em;
-	font-style: normal;
-	font-variant: normal;
+  font-family: cursive;
+  font-size: 2em;
+  font-style: normal;
+  font-variant: normal;
   font-weight: 500;
 }
 h4 {
@@ -112,20 +111,20 @@ ul li{
 }
 
 #header li {
-	padding: 0;
+  padding: 0;
 }
 
 #header li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 1em;
-    text-decoration: none;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 1em;
+  text-decoration: none;
 }
 
 /* Changing link color to purple */
 #header li a:hover {
-    background-color: #c68eff;
+  background-color: #c68eff;
 }
 .picked{
   background-color: #520294;
